@@ -1,17 +1,1 @@
-{
-  "name": "MONEX — Финансовый центр",
-  "short_name": "MONEX",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#090a12",
-  "theme_color": "#090a12",
-  "description": "Личный финансовый центр: счета, расходы, цели и аналитика",
-  "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
-}
+{"name":"FINORA — Личные финансы","short_name":"FINORA","start_url":"./","display":"standalone","background_color":"#090b13","theme_color":"#090b13","lang":"ru","icons":[]}
